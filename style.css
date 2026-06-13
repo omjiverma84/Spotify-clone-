@@ -261,6 +261,7 @@ opacity: .7;
   justify-content: center;
     
     justify-content: center;
+    margin-left: 3rem;
 
 
 }
@@ -327,7 +328,7 @@ display: flex;
 }
 
 .controls-menu-volume{
-width: 30%;
+width: 70%;
 margin-bottom: 2.rem;
 align-items: center;
 justify-content: center;
@@ -367,7 +368,7 @@ cursor: pointer;
 display: flex;
 float: right;
 margin-top: 1.5rem;
-width: 50%;
+width: 30%;
 
 
 }
